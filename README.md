@@ -1,4 +1,5 @@
 # WiFi Hotspot Feature
+Enables ability to turn on wifi and hotspot at same time to use as wifi repeater in MIUI11 devices.
 Systemless apply WiFi Hotspot Feature in MIUI11
 
 ## Source Code
