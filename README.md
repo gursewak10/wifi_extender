@@ -8,6 +8,10 @@ Systemless apply this module to prevent from OTA updates.
 ### **Changelog**
 V1.1 Initial Release
 
+## Build
+
+### Linux, BSD, macOS, Android
+
 Requires wget.
 
     wget -O META-INF/com/google/android/update-binary https://raw.githubusercontent.com/topjohnwu/Magisk/master/scripts/module_installer.sh
