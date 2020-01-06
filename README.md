@@ -7,6 +7,7 @@ Systemless apply this module to prevent from OTA updates.
 
 ### **Changelog**
 V1.1 Initial Release
+
 more devices to be added soon...
 
 ## Build
