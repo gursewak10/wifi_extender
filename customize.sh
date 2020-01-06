@@ -13,6 +13,6 @@ ui_print "Android version: "$RELEASE
 ui_print "Security patch version: "$SECURITY_PATCH_VERSION
 ui_print " "
 
-if [ $DEVICE != "violet" ] && [ $DEVICE != "whyred" ]; then
+if [ $DEVICE != "viole" ] && [ $DEVICE != "whyred" ]; then
   abort " => Device '"$DEVICE"' is not supported"
 fi
