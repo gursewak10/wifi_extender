@@ -2,7 +2,7 @@
 
 ### **Description**
 This Magisk Module helps to enable the ability of enabling WiFi and Hotspot in MIUI11 ROMs in Redmi Phones.
-Systemless apply this module to prevent from OTA updates.
+Systemless apply this module to prevent from OTA updates. As of now Whyred and Violet are added. more supporting devices will be added after testing.
 ## xda| **gursewak.10**
 
 ### **Changelog**
